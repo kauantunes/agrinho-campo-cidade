@@ -14,7 +14,7 @@ O site aborda temas como:
 
 ## 🚀 Como Navegar e Interagir com o Site
 
-O site é uma página única (single-page application) com navegação intuitiva.
+O site é uma página única com navegação intuitiva.
 
 1.  **Acesso:** Basta abrir o arquivo `index.html` em qualquer navegador web moderno (Google Chrome, Mozilla Firefox, Microsoft Edge, Safari, etc.).
 2.  **Navegação Principal:** Utilize o menu de navegação no cabeçalho (topo da página) para saltar rapidamente para as diferentes seções do site:
